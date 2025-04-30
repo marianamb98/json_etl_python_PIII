@@ -18,7 +18,7 @@ def bar_plot(lista_userId,lista_completed):
     fig.suptitle('Títulos completados por usuario', fontsize=16)
     ax = fig.add_subplot()
 
-    ax.bar(lista_userId, lista_completed, label='Cantidad de títulos')
+    ax.bar(lista_userId, lista_completed, label='Cantidad de títulos', color='blue')
     ax.set_facecolor('whitesmoke')
     ax.legend()
     plt.show()
