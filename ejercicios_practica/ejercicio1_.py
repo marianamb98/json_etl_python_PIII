@@ -33,13 +33,13 @@ def serializar():
     # Observe el archivo y verifique que se almaceno lo deseado
 
     mipersona = {
-                  "nombre": "Jesus",
-                  "apellido": "Gonzalez",
-                  "DNI": "26701556",
+                  "nombre": "Mariana",
+                  "apellido": "Mamani",
+                  "DNI": "41718143",
                   "elementos_vestir": [
                       {
                        "prenda": "zapatilla", 
-                       "cantidad": 4
+                       "cantidad": 2
                       },
                       {
                        "prenda": "remeras",
@@ -65,13 +65,13 @@ def deserializar():
     # en pantalla y comparelo contra el JSON que generó en la función anterior
 
     mipersona = {
-                  "nombre": "Jesus",
-                  "apellido": "Gonzalez",
-                  "DNI": "26701556",
+                  "nombre": "Mariana",
+                  "apellido": "Mamani",
+                  "DNI": "41718143",
                   "elementos_vestir": [
                       {
                        "prenda": "zapatilla", 
-                       "cantidad": 4
+                       "cantidad": 2
                       },
                       {
                        "prenda": "remeras",
