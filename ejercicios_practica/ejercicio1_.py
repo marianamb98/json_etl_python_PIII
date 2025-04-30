@@ -38,11 +38,11 @@ def serializar():
                   "DNI": "26701556",
                   "elementos_vestir": [
                       {
-                       "prenda": "chaleco", 
+                       "prenda": "zapatilla", 
                        "cantidad": 4
                       },
                       {
-                       "prenda": "zapato",
+                       "prenda": "remeras",
                        "cantidad": 12
                       }
                       ]
@@ -70,11 +70,11 @@ def deserializar():
                   "DNI": "26701556",
                   "elementos_vestir": [
                       {
-                       "prenda": "chaleco", 
+                       "prenda": "zapatilla", 
                        "cantidad": 4
                       },
                       {
-                       "prenda": "zapato",
+                       "prenda": "remeras",
                        "cantidad": 12
                       }
                       ]
