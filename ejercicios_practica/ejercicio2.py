@@ -24,7 +24,7 @@ def bar_plot(lista_userId,lista_completed):
     plt.show()
 
 if __name__ == '__main__':
-    print("Bienvenidos a otra clase con Python")
+    print("Ejercicio 2")
     
     # Ejercicio de consumo de datos por API
     url = "https://jsonplaceholder.typicode.com/todos"
@@ -76,4 +76,4 @@ if __name__ == '__main__':
 
     bar_plot(lista_userId,lista_completed)
 
-    print("terminamos")
+    print("fin del Ejercicio 2")
